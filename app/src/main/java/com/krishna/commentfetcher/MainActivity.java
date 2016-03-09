@@ -45,6 +45,7 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //local change two
         //local change three
         //remote changes
         setContentView(R.layout.activity_main);
