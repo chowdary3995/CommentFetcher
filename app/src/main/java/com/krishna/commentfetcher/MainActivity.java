@@ -46,6 +46,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //local change one
+        //remote changes
         setContentView(R.layout.activity_main);
 
         authorList = new ArrayList<String>();
